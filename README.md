@@ -84,24 +84,7 @@ This project demonstrates how to **fine-tune GPT-3.5** for custom tasks using Op
 1. Clone the repository and install dependencies.
 2. Prepare your dataset and configure your OpenAI API keys.
 3. Run the fine-tuning process:
-   ```bash
-   python fine_tune_gpt3.5.py
-   ```
-
----
-
-## 🔧 Installation & Setup for All Projects:
-1. Clone this repository:
-   ```bash
-   git clone https://github.com/Aikido/rohit-multi-project-suite.git
-   cd rohit-multi-project-suite
-   ```
-2. Install the required dependencies:
-   ```bash
-   pip install -r requirements.txt
-   ```
-3. For each individual project, follow the specific setup instructions mentioned above.
-
+   `
 ---
 
 ## 💡 Key Learnings:
